@@ -1,11 +1,12 @@
 object Form1: TForm1
-  Left = 248
+  Left = 292
   Height = 428
-  Top = 145
+  Top = 138
   Width = 577
-  Caption = 'Form1'
+  Caption = 'Halo'
   ClientHeight = 428
   ClientWidth = 577
+  Color = clAppWorkspace
   LCLVersion = '2.0.6.0'
   object Button1: TButton
     Left = 112
